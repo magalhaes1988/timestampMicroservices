@@ -20,9 +20,8 @@ namespace timestampMicroservices.src.Controllers
         public string Get(string? date)
         {
             try{
-                string regexPattern = "\"([^\"]+)\":";
                 TimeStamp dateTime2 = new TimeStamp(date: date);
-                return Regex.Replace(JsonSerializer.Serialize(dateTime2),regexPattern, "$1:");
+                return JsonSerializer.Serialize(dateTime2);
             }
             catch (Exception ex)
             {
