@@ -47,6 +47,7 @@ namespace timestampMicroservices.src.Models
 
         [JsonPropertyOrder(0)]
         [JsonPropertyName("unix")]
+        
         public long UnixTime{
             get
             {

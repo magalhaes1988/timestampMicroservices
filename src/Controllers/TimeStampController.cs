@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using System.Text.Json;
 using Microsoft.AspNetCore.Mvc;
 using timestampMicroservices.src.Models;
+using System.Text.RegularExpressions;
 
 namespace timestampMicroservices.src.Controllers
 {
@@ -19,8 +20,9 @@ namespace timestampMicroservices.src.Controllers
         public string Get(string? date)
         {
             try{
-            TimeStamp dateTime2 = new TimeStamp(date: date);
-            return JsonSerializer.Serialize(dateTime2);
+                string regexPattern = "\"([^\"]+)\":";
+                TimeStamp dateTime2 = new TimeStamp(date: date);
+                return Regex.Replace(JsonSerializer.Serialize(dateTime2),regexPattern, "$1:");
             }
             catch (Exception ex)
             {
