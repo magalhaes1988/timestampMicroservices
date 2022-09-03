@@ -10,6 +10,7 @@ namespace timestampMicroservices.src.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Route("api")]
 
     public class TimeStampController : ControllerBase
     {
