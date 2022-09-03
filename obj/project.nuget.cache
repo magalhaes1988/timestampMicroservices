@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EwDkxb8sCHapTm+k83HW+XbsG8Cuv1xGJUGIUT+ytq8edRnPJhgkpz3TGEUdKZrozw7/Uq9XaJkkHjsMma/IxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mazzo\\OneDrive\\Documentos\\Marcelo\\backend-projects\\timestampMicroservices\\timestampMicroservices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mazzo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mazzo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mazzo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\mazzo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\mazzo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\mazzo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

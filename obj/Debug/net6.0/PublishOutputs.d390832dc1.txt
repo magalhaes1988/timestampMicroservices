@@ -1,0 +1,11 @@
+C:\Users\mazzo\OneDrive\Documentos\Marcelo\backend-projects\timestampMicroservices\bin\Debug\net6.0\publish\timestampMicroservices.exe
+C:\Users\mazzo\OneDrive\Documentos\Marcelo\backend-projects\timestampMicroservices\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\mazzo\OneDrive\Documentos\Marcelo\backend-projects\timestampMicroservices\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\mazzo\OneDrive\Documentos\Marcelo\backend-projects\timestampMicroservices\bin\Debug\net6.0\publish\timestampMicroservices.dll
+C:\Users\mazzo\OneDrive\Documentos\Marcelo\backend-projects\timestampMicroservices\bin\Debug\net6.0\publish\timestampMicroservices.deps.json
+C:\Users\mazzo\OneDrive\Documentos\Marcelo\backend-projects\timestampMicroservices\bin\Debug\net6.0\publish\timestampMicroservices.runtimeconfig.json
+C:\Users\mazzo\OneDrive\Documentos\Marcelo\backend-projects\timestampMicroservices\bin\Debug\net6.0\publish\timestampMicroservices.pdb
+C:\Users\mazzo\OneDrive\Documentos\Marcelo\backend-projects\timestampMicroservices\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\mazzo\OneDrive\Documentos\Marcelo\backend-projects\timestampMicroservices\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mazzo\OneDrive\Documentos\Marcelo\backend-projects\timestampMicroservices\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mazzo\OneDrive\Documentos\Marcelo\backend-projects\timestampMicroservices\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
